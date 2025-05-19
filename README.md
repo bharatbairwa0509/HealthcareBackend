@@ -187,3 +187,33 @@ python manage.py runserver
 1. Use **POST** `/api/auth/login/` to get your token
 2. In **Thunder Client**, go to `Auth` tab → select `Bearer Token` → paste your access token
 3. Test all APIs using the defined endpoints and JSON bodies
+
+
+POST /api/auth/register/ -
+![Create User](https://github.com/user-attachments/assets/11361be6-dd76-4a50-9faf-e7e4730a9251)
+
+
+/api/auth/login/ -
+![login User](https://github.com/user-attachments/assets/55d4a33d-b539-4c55-8d2f-50a32224309c)
+
+/api/patients/ - 
+![save Patients](https://github.com/user-attachments/assets/d450363b-9e83-4d43-8bb8-62df68108b25)
+
+
+GET /api/patients/  - 
+![Get patients](https://github.com/user-attachments/assets/fa13a658-b59a-4481-b0c1-022f61f30211)
+
+like as I upload All ScreenShots 
+
+
+![get The Doctor Assign](https://github.com/user-attachments/assets/29700e28-957a-4571-a492-7f6aa6cfee7d)
+![get The Doctor Assign](https://github.com/user-attachments/assets/ca61c4b1-9e60-43b7-9bc2-8a7feedb6650)
+![Delete Doctor](https://github.com/user-attachments/assets/1a159281-70dc-4539-b725-008d51db3053)
+![delete Doctor Mapping](https://github.com/user-attachments/assets/2a15919a-3f89-472d-a4aa-c8745dc220ce)
+![add Doctor](https://github.com/user-attachments/assets/5951a694-d151-43b1-8004-c4cf6479a219)
+![assgin A doctor to Patients](https://github.com/user-attachments/assets/3771ab22-a2b7-4051-ac0a-243799ce1796)
+
+
+
+
+
